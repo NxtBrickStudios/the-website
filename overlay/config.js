@@ -3,13 +3,13 @@ const OVERLAY_CONFIG = {
   // 300 = 5 Minuten
   // 600 = 10 Minuten
   // 3600 = 1 Stunde
-  countdownSeconds: 600,
+  countdownSeconds: 300,
 
   // Text oben in der Mitte
-  topText: "NXT LUCKY PALACE",
+  topText: "BEACH ESCAPE",
 
   // Text beim Counter links
-  counterText: "Nächste Runde startet in",
+  counterText: "Update",
 
   // "above" = Text über dem Counter
   // "below" = Text unter dem Counter
